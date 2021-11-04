@@ -1,0 +1,21 @@
+h1 {
+    font-weight: 400;
+}
+#p-one {
+    text-align: center;
+}
+body {
+    font:16px/28px 'Microsoft YaHei';
+}
+.gray{
+    color: rgb(59, 57, 57);
+}
+.align {
+    text-align: center;
+}
+.underline {
+    text-decoration: none;
+}
+p {
+    text-indent: 2em;
+}
